@@ -186,6 +186,9 @@ deploy to Liferay, you might need to blacklist some imports:
 Congratulations! Resolving all of your module's package dependencies, especially
 those from traditional Java libraries, is a quite an accomplishment. 
 
+## Example
+[Liferay-Thirdparty Example](https://github.com/zimmj/Liferay-Thirdparty)
+
 ## Related Topics
 
 [Importing Packages](/docs/7-1/tutorials/-/knowledge_base/t/importing-packages)
